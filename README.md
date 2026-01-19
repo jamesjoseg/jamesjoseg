@@ -1,40 +1,32 @@
-# Olá, eu sou o James Gonçalves 🚀
+# 👋 Olá, eu sou o James Gonçalves
 
-**Analista de Infraestrutura de TI | Redes, Segurança e Linux**
+**Analista de Infraestrutura de TI | Redes & Linux**
 
-Atualmente focado na evolução para ambientes de infraestrutura de nível enterprise e global, utilizando uma base sólida de mais de 10 anos de experiência operacional para projetar e documentar redes resilientes, seguras e de alta performance.
+Atuo há mais de 10 anos na linha de frente do suporte técnico e atualmente curso Tecnologia em Redes de Computadores, com foco na transição para ambientes de infraestrutura de nível enterprise. 
 
----
-
-### 🛠️ Core Stack & Objetivos
-- **Certificação em Foco:** Cisco CCNA (Estudos em Routing & Switching).
-- **Sistemas:** Administração de ambientes Linux (Debian/CentOS) e administração de serviços essenciais.
-- **Especialidades:** Roteamento dinâmico (BGP/OSPF), Segurança L2, VoIP e Análise de Protocolos.
-- **Idiomas:** Inglês técnico focado em documentação e colaboração global.
+Mantenho um Home Lab ativo onde aprofundo conhecimentos em redes, segurança e serviços Linux, priorizando ambientes estáveis, bem documentados e seguros.
 
 ---
 
-### 📁 Portfólio Técnico (Laboratórios & Projetos)
+## 📁 Projetos e Laboratórios
+Repositórios que documentam minha evolução técnica por meio de prática real:
 
-Aqui estão os pilares da minha jornada técnica documentada:
-
-* **[Roteamento Avançado Cisco](https://github.com/jamesjoseg/projeto-roteamento-cisco):** Implementação de BGP, OSPF e EIGRP com foco em redundância entre Sistemas Autónomos.
-* **[Infraestrutura de Switching Multi-Vendor](https://github.com/jamesjoseg/infraestrutura-switching-multivendor):** Gestão de hardware real (Cisco, Aruba, Huawei) abrangendo VLANs, STP, LACP e segurança 802.1X/RADIUS.
-* **[Análise Profunda de Protocolos](https://github.com/jamesjoseg/network-protocols-analysis):** Verificação de tráfego via Wireshark, análise de performance TCP/UDP e impacto de latência/perda de pacotes.
-* **[Administração de Serviços Linux](https://github.com/jamesjoseg/linux-network-services):** Implementação de DNS (Bind9), DHCP, SSH e servidores de e-mail em Debian e CentOS.
-* **[Serviços Multimídia & QoS](https://github.com/jamesjoseg/multimedia-network-services):** Configuração de centrais PBX IP (Asterisk/FreePBX), análise de fluxos VoIP e de tráfego para streaming/jogos.
+* **[Laboratórios de Roteamento Cisco](https://github.com/jamesjoseg/laboratorios-roteamento-cisco):** Roteamento estático, dinâmico e integração entre múltiplos AS com BGP.
+* **[Infraestrutura de Switching Multi-Vendor](https://github.com/jamesjoseg/infraestrutura-switching-multivendor):** Configuração e gestão de equipamentos Cisco, Aruba e Huawei (VLANs, STP, segurança L2).
+* **[Administração de Serviços Linux](https://github.com/jamesjoseg/linux-network-services):** Implementação de serviços como DNS (Bind9), DHCP e SSH em Debian e CentOS.
+* **[Análise de Protocolos de Rede](https://github.com/jamesjoseg/network-protocols-analysis):** Diagnóstico e troubleshooting de tráfego utilizando Wireshark.
 
 ---
 
-### ⚡ No que estou trabalhando agora?
-- Aprofundando estudos em automação de redes com Python.
-- Práticas em laboratórios MikroTik (VPNs e Firewall).
-- Documentando minha evolução técnica publicamente no LinkedIn.
+## ⚡ Atualmente
+* **Estudos para certificação Cisco CCNA**
+* **Práticas avançadas com MikroTik (VPNs e Firewall)**
+* **Documentação técnica e evolução profissional no LinkedIn**
 
 ---
 
-### 📫 Conecte-se comigo
-- **LinkedIn:** [linkedin.com/in/james-jose-gonçalves](https://www.linkedin.com/in/jamesjoseg/)
-- **Localização:** Pelotas - RS, Brasil (Disponível para oportunidades remotas globais).
+## 📬 Contato
+* **LinkedIn:** [linkedin.com/in/james-jose-gonçalves](https://www.linkedin.com/in/jamesjoseg/)
+* **Localização:** Pelotas – RS, Brasil
 
 *"Ver, testar, comprovar e documentar."*
