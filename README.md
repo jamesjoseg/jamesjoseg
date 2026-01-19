@@ -26,7 +26,7 @@ Repositórios que documentam minha evolução técnica por meio de prática real
 ---
 
 ## 📬 Contato
-* **LinkedIn:** [linkedin.com/in/james-jose-gonçalves](https://www.linkedin.com/in/jamesjgoncalves/)
+* **LinkedIn:** [linkedin.com/in/jamesjgonçalves]([https://www.linkedin.com/in/jamesjgoncalves)
 * **Localização:** Pelotas – RS, Brasil
 
 *"Ver, testar, comprovar e documentar."*
