@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o James Gonçalves
 
-**Analista de Infraestrutura de TI | Redes & Linux**
 
 Atuo há mais de 10 anos na linha de frente do suporte técnico e atualmente curso Tecnologia em Redes de Computadores, com foco na transição para ambientes de infraestrutura de nível enterprise. 
 
